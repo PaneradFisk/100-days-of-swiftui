@@ -5,7 +5,7 @@ https://www.hackingwithswift.com/100/swiftui
 
 ## Chronological order for all directories
 
-Project 1
+### Project 1 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project01%20--%20WeSplit>
 ---
 Challenge 1
 ---
