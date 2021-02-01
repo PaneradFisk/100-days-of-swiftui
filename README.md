@@ -5,6 +5,17 @@ https://www.hackingwithswift.com/100/swiftui
 
 ## Chronological order for all directories
 
----
 Project 1
+---
+Challenge 1
+---
+Project 2
+---
+Project 3
+---
+Challenge 2
+---
+Project 4
+---
+Project 5
 ---
