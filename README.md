@@ -12,4 +12,5 @@ https://www.hackingwithswift.com/100/swiftui
 - #### Challenge 2 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Challenge%20--%20Day25>RockPaperScissors</a>
 - #### Project 4 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project04%20--%20BetterRest>BetterRest</a>
 - #### Project 5 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project05%20--%20WordScramble>WordScramble</a>
+- #### Project 6 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project06%20--%20Animations>Animations</a>
 
