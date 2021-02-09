@@ -32,7 +32,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView{
             VStack{
-                TextField("Enter your word", text: $newWord, onCommit: addNewWorld)
+                TextField("Enter your word", text: $newWord, onCommit: addNewWord)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .autocapitalization(.none)
                     .disableAutocorrection(true)
@@ -61,7 +61,7 @@ struct ContentView: View {
         }
     }
     
-    func addNewWorld(){
+    func addNewWord(){
         let answer = newWord.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
         guard answer.count > 0 else {
             return
