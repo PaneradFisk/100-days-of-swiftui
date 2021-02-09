@@ -13,4 +13,6 @@ https://www.hackingwithswift.com/100/swiftui
 - #### Project 4 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project04%20--%20BetterRest>BetterRest</a>
 - #### Project 5 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project05%20--%20WordScramble>WordScramble</a>
 - #### Project 6 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project06%20--%20Animations>Animations</a>
+- #### Challenge 3 <a href=>Edutainment</a>
+- #### Project 7 <a href=https://github.com/PaneradFisk/100-days-of-swiftui/tree/main/Project07%20--%20iExpense>iExpense</a>
 
